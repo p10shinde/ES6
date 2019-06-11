@@ -45,3 +45,4 @@ testem.log
 .DS_Store
 Thumbs.db
 src/assets/videos/test.mp4
+node_modules
